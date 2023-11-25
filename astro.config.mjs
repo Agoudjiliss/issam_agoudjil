@@ -9,7 +9,7 @@ export default defineConfig({
   output: 'server',
   adapter: vercel({
     analytics: true,
-    site: 'https://github.com/Agoudjiliss/issam_agoudjil.github.io',
+   
    
   }),
 });
